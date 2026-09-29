@@ -1,4 +1,4 @@
-# Hi, I'm Renad 👋
+# **Renad135/Renad Alshehri**
 
 **Computer Science Graduate · First-Class Honours · AI & Machine Learning · Python**
 
